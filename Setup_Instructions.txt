@@ -1,0 +1,11 @@
+Follow the Instructions carefully to Install the "Interactive Test Engine" in ur computer:
+------------------------------------------------------------------------------------------
+1. Run the Setup.exe file to install the test engine in ur computer. Don't run the installed application. Just hang on!!
+
+2. Make sure JRE v1.6 is installed in ur computer. If not, install JRE v1.6 first.
+
+3. Then, create the Data Source Name for the database "ITE.mdb" with the Data Source Name as "TestEngine". If you don't know how to create Data Source Name, then goto Step-4 but before that make sure you find the database "ITE.mdb" in the following Directory : "installed_directory\database\ITE.mdb". Now proceed to Step-4 if u r comfortable with the above steps.
+
+4. Goto Control Panel. Then Goto Administrative Tools. Open "Data Sources (ODBC)" from the list. Select "MS Access Database" from the "User DSN" tab. Now click Add button which ll pops up "Create New Data Source" window. Select "Microsoft Access Driver (*.mdb)" from the list. Then click Finish Button. It will spawn the "ODBC Microsoft Access Setup" window. Now type "TestEngine" in the Data Source Name Text Field. Then click the "Select..." button to select the database. Select "ITE.mdb" database which u can find in the location as mentioned in the Step-3. Press OK button to finish the Data Source Creation process.
+
+5. Thats all Folks!! You are done with the setup. Now enjoy the test engine by launching the "Interactive Test Engine" shortcut from ur desktop or through Start menu.

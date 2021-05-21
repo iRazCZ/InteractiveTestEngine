@@ -1,0 +1,28 @@
+SUMMARY
+========
+
+Hello Andrew Flynch!
+
+Your Score  :	0.5 !!
+
+Total Number of Questions  		:	3
+Number of Questions Attended		:	2
+Number of Right Answers 		:	1
+Number of Wrong Answers 		:	1
+Time Taken				:	0  H  0  M  51  S
+
+-------------------------------------------------------------------------
+
+1)  Which is the best OOP language in the world?
+Your Answer     :  JAVA
+Correct Answer  :  JAVA
+
+2)  What is SQL?
+Your Answer     :  
+Correct Answer  :  English Like Language
+
+3)  Which is the latest version of java?
+Your Answer     :  6.0
+Correct Answer  :  7.0
+
+-------------------------------------------------------------------------
